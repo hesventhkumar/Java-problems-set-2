@@ -7,8 +7,8 @@ long N,fact;
             if(N%fact==0){
                 System.out.print(fact+" ");
             }
-//            System.out.print(N+" ");
-        }
 
+        }
+            System.out.print(N+" ");
     }
 }
